@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(147, 184, 206);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(224, 118, 68);
+    border: 5px solid black;
+}
+
+.input{
+    color: red;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+.FirstName {
+    display: flex;
+    justify-content: space-around;
+}
+
+.LastName {
+    display: flex;
+    justify-content: space-around;
+}
